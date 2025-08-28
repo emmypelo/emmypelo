@@ -1,4 +1,3 @@
-- 👋 Hi, I’m KingLeo
-- 👀 I’m a fullback developer using JavaScript to make wonders 
-- 🌱 I’m currently lear
+- 👋 Hi, I’m KingLeo- Emmanuel Ogunleye
+- 👀 I’m a fullback developer using JavaScript to make interactive, secured and responsive websites 
 - 💞️ I’m looking to collaborate on JavaScript projects 
